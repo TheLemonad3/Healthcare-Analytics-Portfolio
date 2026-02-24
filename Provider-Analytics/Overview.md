@@ -1,4 +1,4 @@
-Project 1 – Provider & Credentialing Analytics Dashboard
+Project 1 – Provider Compliance & Peer Review Analytics Dashboard 
 
 Business Problem
 
