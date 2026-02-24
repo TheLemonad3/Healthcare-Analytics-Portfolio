@@ -14,11 +14,20 @@ This project simulates a provider dataset reflecting common elements of credenti
 
 Key Metrics Evaluated
 
-- Provider credential status distribution
+Compliance & Credential Health
+- Credential status distribution
 - Upcoming credential expirations
 - Compliance rate by department
-- Average onboarding duration
-- High-risk provider concentration
+
+Provider Performance (OPPE)
+- OPPE score distribution
+- Average OPPE score by department
+- Performance flag indicators
+
+Peer Review & FPPE Monitoring
+- FPPE status breakdown
+- Peer review case activity
+- Providers under review
 
 Insights & Analytical Value
 
